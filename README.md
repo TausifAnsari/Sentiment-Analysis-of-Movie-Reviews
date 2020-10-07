@@ -1,4 +1,4 @@
-# movie-review-classification
+# Movie Review Classification
 # Introduction:
 >Movie	reviews	are	an	important	way	to	gauge	the	performance	of	a	movie.		While	providing	a	
 numerical/stars	rating	to	a	movie	tells us	about	the	success	or failure	of	a	movie	quantitatively,	
