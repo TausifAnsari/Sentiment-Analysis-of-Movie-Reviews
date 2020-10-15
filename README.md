@@ -15,4 +15,4 @@ was	“happy”,	“sad”,	“angry”	and	so	on.
 In	this	project	we	aim	to	use	Sentiment	Analysis	on	a	set	of	movie	reviews	given	by	reviewers	and	
 try	to	understand	what	their	overall	reaction	to	the	movie was, i.e. if	they	liked	the	movie	or	they	
 hated	it.	We	aim	 to
-Classification of movie reviews as POSITIVE OR NEGATIVE 
+Classification of movie reviews as POSITIVE OR NEGATIVE.
